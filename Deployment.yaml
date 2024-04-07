@@ -1,0 +1,9 @@
+apiversion:
+kind:
+metadata:
+ name:
+
+Spec:
+ Replicas:
+
+conatienr:
